@@ -1,7 +1,7 @@
 # Citation
 Une API citation . <br>
 L'API est hébergée à l'aide de <a href="https://www.alwaysdata.com/fr/"> alwaysdata<a> .
-# Une API citation 
+# Une API de citation 
   Comment sa marche ? <br>
   Rendez-vous sur <a href="https://luha.alwaysdata.net/api/"> https://luha.alwaysdata.net/api/ </a>
    <br><br>
